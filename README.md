@@ -10,3 +10,16 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
 
+<p>
+This project is a Digital Magazine Website developed using HTML, CSS, and JavaScript. It provides a modern and responsive platform to display articles, blogs, and media content in an organized and visually appealing format.
+
+🚀 Features:   
+<ul>
+<li>Responsive design for mobile, tablet, and desktop</li> 
+<li>Interactive and user-friendly interface</li>
+<li>Multiple sections for articles (e.g., Technology, Lifestyle, News)</li>
+<li>Navigation bar for easy browsing</li>
+<li>Dynamic content handling using JavaScript</li>
+<li>Clean and structured layout</li>
+</p>
+</ul>
